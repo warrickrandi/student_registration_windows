@@ -1,0 +1,13 @@
+C:\Users\Randi\source\repos\Student Registration Windows\Student Registration Windows\bin\Debug\Student Registration Windows.exe.config
+C:\Users\Randi\source\repos\Student Registration Windows\Student Registration Windows\bin\Debug\Student Registration Windows.exe
+C:\Users\Randi\source\repos\Student Registration Windows\Student Registration Windows\bin\Debug\Student Registration Windows.pdb
+C:\Users\Randi\source\repos\Student Registration Windows\Student Registration Windows\obj\Debug\Student Registration Windows.csprojResolveAssemblyReference.cache
+C:\Users\Randi\source\repos\Student Registration Windows\Student Registration Windows\obj\Debug\Student_Registration_Windows.Main.resources
+C:\Users\Randi\source\repos\Student Registration Windows\Student Registration Windows\obj\Debug\Student_Registration_Windows.Properties.Resources.resources
+C:\Users\Randi\source\repos\Student Registration Windows\Student Registration Windows\obj\Debug\Student Registration Windows.csproj.GenerateResource.Cache
+C:\Users\Randi\source\repos\Student Registration Windows\Student Registration Windows\obj\Debug\Student Registration Windows.csproj.CoreCompileInputs.cache
+C:\Users\Randi\source\repos\Student Registration Windows\Student Registration Windows\obj\Debug\Student Registration Windows.exe
+C:\Users\Randi\source\repos\Student Registration Windows\Student Registration Windows\obj\Debug\Student Registration Windows.pdb
+C:\Users\Randi\source\repos\Student Registration Windows\Student Registration Windows\obj\Debug\Student_Registration_Windows.AddStudent.resources
+C:\Users\Randi\source\repos\Student Registration Windows\Student Registration Windows\obj\Debug\Student_Registration_Windows.View.resources
+C:\Users\Randi\source\repos\Student Registration Windows\Student Registration Windows\bin\Debug\Oracle.DataAccess.dll
